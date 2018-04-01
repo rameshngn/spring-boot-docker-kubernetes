@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootwithdocker.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootwithdocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootwithdocker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootwithdocker_main.iml" group="springbootwithdocker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springbootwithdocker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springbootwithdocker_test.iml" group="springbootwithdocker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thd-java-async-framework.iml" filepath="$PROJECT_DIR$/.idea/modules/thd-java-async-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thd-java-async-framework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thd-java-async-framework_main.iml" group="thd-java-async-framework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thd-java-async-framework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thd-java-async-framework_test.iml" group="thd-java-async-framework" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: private-reg-ramesh
+spec:
+  containers:
+  - name: private-reg-container-ramesh
+    image: rameshngn/springbootwithdocker
+  imagePullSecrets:
+  - name: regcred
+---
+kind: Service
+apiVersion: v1
+metadata:
+ name: ramesh-service
+ ports:
+ - protocol: TCP
+   port: 80
+   targetPort: 8080
+   type: LoadBalancer
